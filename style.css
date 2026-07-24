@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+body{
+    width: 100dvw;
+    height: 100dvh;
+}
